@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">sovwallet</string>
+    <string name="title_activity_secret_seed">SecretSeedActivity</string>
+    <string name="title_activity_access_account">AccessAccountActivity</string>
+</resources>
